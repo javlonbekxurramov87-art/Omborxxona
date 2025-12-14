@@ -80,7 +80,6 @@ export const Login: React.FC<LoginProps> = ({ onLogin }) => {
           </form>
 
           <div className="mt-8 text-center text-sm text-gray-400">
-            Default: <b>admin</b> / <b>123</b>
           </div>
         </div>
       </div>
